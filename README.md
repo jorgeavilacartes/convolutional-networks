@@ -6,7 +6,7 @@ Además, se facilitan "naive approaches" de las funciones de Convolucion2D y Max
 
 Para lo anterior, he decidido separar este tutorial en capítulos (cada cuaderno de jupyter está enumerado).
 
-1. **Convolution, Pooling and Padding**
+# 1. **Convolution, Pooling and Padding**
   
   Veremos:
   - Qué es un tensor (estructura de datos usadas en las redes convolucionales, de ahí el nombre **Tensorflow**)
